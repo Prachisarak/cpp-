@@ -1,1 +1,1 @@
-some logic building questions on git hub 
+some logic building questions on cpp
